@@ -91,3 +91,6 @@ YarnSpinner.Tests/coverage/
 
 # Folders marked as containing non-public data
 *DoNotCommit/
+
+# Language server build artifacts
+dist/LanguageServer/
